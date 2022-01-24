@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.button-element {
+  list-style-type: none;
+  margin: 10px;
+}
+.button {
+  border-radius: 10px;
+  padding: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: transparent;
+  border-width: 0px;
+  font-family: 'roboto';
+  font-weight: 700;
+  font-size: 15px;
+  color: #0f172a;
+}
+.active-button {
+  border-color: #0284c7;
+  border-width: 1px;
+  border-style: solid;
+  color: #0284c7;
+  cursor: pointer;
+}
